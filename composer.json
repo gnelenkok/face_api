@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "Face\\Classes\\":"classes/"
+    }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
